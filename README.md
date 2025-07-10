@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=skyblue&height=300&section=header&text= Good to see you👀)
 
 <!--
 **seeyeon/seeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
