@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=AEDCFF&height=200&section=header&text=Good%20to%20see%20you%20%F0%9F%91%80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=bffe86&height=200&section=header&text=Good%20to%20see%20you%20%F0%9F%91%80)
 
 ## 📊 Chart </h2>
 
@@ -35,7 +35,7 @@
 <a href="https://velog.io/@se_kite"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=AEDCFF&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=bffe86&height=200&section=footer)
 
 <!--
 **seeyeon/seeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
