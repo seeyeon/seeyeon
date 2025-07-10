@@ -4,7 +4,8 @@
 
 [![seeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seeyeon)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seeyeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+
+## 📌Algorithm
  
 ## ⚙ Tech Stack</h2>
 
