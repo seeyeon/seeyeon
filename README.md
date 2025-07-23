@@ -34,6 +34,7 @@
 ## 📚 Study Blog </h2>
 
 <a href="https://velog.io/@se_kite"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://github.com/orgs/bbackendStudy/repositories"><img src="https://img.shields.io/badge/study-3fbdf7?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=bffe86&height=200&section=footer)
